@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    }
+
+    .header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .formContainer{
+        padding: 10px;
+        border: 2px solid black;
+    }
+
+    .inputContainer{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .inputRow{
+        width: 45%;
+    }
+
+    .inputStacker{
+        width: 100%;
+        display: inline-block;
+    }

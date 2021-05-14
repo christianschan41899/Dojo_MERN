@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    }
+
+    .header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .tableMain{
+        border: 2px solid black;
+        width: 40%;
+    }

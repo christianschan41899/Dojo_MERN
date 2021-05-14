@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    }
+
+    .return{
+        width: 100px;
+    }
+
+    .product{
+        width: 500px;
+        padding: 20px;
+        margin: auto;
+        text-align: left;
+        background-color: whitesmoke;
+    }
+
+    .title{
+        text-align: center;
+    }
+
+    .description{
+        margin-top: 10px;
+    }
+
+    .actionButton{
+        margin: 10px;
+    }
+
+    .removeDecorations{
+        text-decoration: none;
+        color: black;
+    }

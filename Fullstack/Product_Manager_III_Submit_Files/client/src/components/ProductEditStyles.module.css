@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    }
+
+    .return{
+        width: 100px;
+    }
+
+    .formContainer{
+        margin: auto;
+        padding: 20px;
+        width: 300px;
+        text-align: left;
+        background-color: whitesmoke;
+    }
+
+    .stackedInputs{
+        width: 100%;
+        display: inline-block;
+    }

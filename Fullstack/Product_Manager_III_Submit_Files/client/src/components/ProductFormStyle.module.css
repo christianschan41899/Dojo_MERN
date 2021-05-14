@@ -1,0 +1,31 @@
+*{
+    margin:0
+    }
+    .formContainer{
+        margin: auto;
+        padding: 20px;
+        width: 300px;
+        text-align: left;
+        background-color: whitesmoke;
+    }
+
+    .stackedInputs{
+        width: 100%;
+        display: inline-block;
+    }
+
+    .productList{
+        margin: auto;
+        width: 500px;
+        border-top: 2px solid black;
+        line-height: 30px;
+    }
+    
+    .actionButton{
+        margin: 10px;
+    }
+
+    .removeDecorations{
+        text-decoration: none;
+        color: black;
+    }
